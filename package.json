@@ -1,0 +1,17 @@
+{
+  "name": "cyclic-number",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/takanopontaro/cyclic-number.git"
+  },
+  "author": "takanopontaro",
+  "license": "MIT"
+}
